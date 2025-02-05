@@ -1,5 +1,3 @@
 {
-  "image": "mcr.microsoft.com/vscode/ubuntu:22.04",
-  "features": {
-  }
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04"
 }
