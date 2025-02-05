@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/vscode/ubuntu:22.04",
+  "features": {
+  }
+}
