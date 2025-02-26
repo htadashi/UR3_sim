@@ -1,0 +1,1 @@
+docker run --rm -it -p 29999:29999/tcp -p 30001:30001/tcp -p 30002:30002/tcp -p 30003:30003/tcp -p 30004:30004/tcp -p 30020:30020/tcp -p 50001:50001/tcp -p 50002:50002/tcp -p 50003:50003/tcp -p 502:502/tcp -p 5900:5900/tcp -p 6080:6080/tcp universalrobots/ursim_cb3:latest
